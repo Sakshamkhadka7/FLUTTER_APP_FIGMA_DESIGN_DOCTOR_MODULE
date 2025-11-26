@@ -1,4 +1,4 @@
-## Doctor UI App – Flutter (Responsive Medical Dashboard)
+:man_health_worker:  ##  Doctor UI App – Flutter (Responsive Medical Dashboard)
 
 A clean, modern, and **fully responsive**   Doctor Appointment UI built using Flutter.
 This project converts a Figma-style mockup into a functional Flutter UI with smooth components and responsive layout.
